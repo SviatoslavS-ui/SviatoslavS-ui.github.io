@@ -18,3 +18,8 @@ h1 {
     padding-left: 1.5rem;
     font-size: larger;
 }
+
+.input-classe {
+    color: rgb(107, 8, 8);
+    font-size: larger;
+}
